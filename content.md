@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Saxon State and University Library Dresden</td>
-      <td>Date</td>
+      <td>27th September 2021</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -45,9 +45,10 @@ count: false
 
 # Overview
 
-- Section 1
-  + Subsection 1
-- Section 2
+- What is *open science*?
+- Scientific method and openness
+- The open science puzzle
+- The *Lessons in Open Science* series
 
 ---
 
