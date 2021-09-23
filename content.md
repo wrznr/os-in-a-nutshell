@@ -5,12 +5,12 @@ layout: true
 <div class="my-footer">
   <table>
     <tr>
-      <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
+      <td style="text-align:right">Saxon State and University Library Dresden</td>
       <td>Date</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
-      <td style="text-align:right">Referat 2.5</td>
+      <td style="text-align:right">Open Science Department</td>
       <td />
     </tr>
   </table>
@@ -22,13 +22,13 @@ layout: true
       <td style="text-align:left"><b>Kay-Michael Würzner</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Referat 2.5</td>
+      <td style="text-align:left">Open Science Department</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>Date</b></td>
+      <td style="font-size:8pt"><b>27th September 2021</b></td>
     </tr>
     <tr>
-      <td style="font-size:8pt">Event</td>
+      <td style="font-size:8pt">Lessons in Open Science</td>
     </tr>
   </table>
 </div>
@@ -38,8 +38,8 @@ layout: true
 class: title-slide
 count: false
 
-# Title
-## Subtitle
+# Open Science in a Nutshell
+## Lessons in Open Science #1
 
 ---
 
@@ -63,5 +63,5 @@ class: part-slide
 # Many thanks for your attention!
 
 <center>
-<a href="https://wrznr.github.io/slide-template/">wrznr.github.io/slide-template</a>
+<a href="https://wrznr.github.io/os-in-a-nutshell">wrznr.github.io/os-in-a-nutshell</a>
 </center>
