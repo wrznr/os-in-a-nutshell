@@ -76,6 +76,7 @@ count: false
 .sixty[
 <img src="https://blog.hslu.ch/ikwerkzeugkasten/files/2016/08/Open_Science_Logo.jpg" width="650px"/>
 ]
+]
 
 
 ---
