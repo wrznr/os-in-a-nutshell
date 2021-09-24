@@ -74,7 +74,7 @@ count: false
 - With all its **advantages** and **risks**
 ]
 .fifty[
-<img src="os_logo1.jpg" width="650px"/>
+<img src="img/os_logo1.jpg" width="650px"/>
 ]
 ]
 
