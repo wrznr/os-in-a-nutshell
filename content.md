@@ -165,7 +165,7 @@ count: false
     + Not yet part of daily scientific practice
 - Closing the gap between claim and reality
 
-<img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="850px"/>
+<img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="650px"/>
 
 ---
 
