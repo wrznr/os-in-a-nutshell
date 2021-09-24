@@ -114,7 +114,9 @@ count: false
 
 # The openness puzzle
 
-<img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="650px"/>
+<center>
+<img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="550px"/>
+</center>
 
 ---
 
@@ -163,7 +165,7 @@ count: false
     + Not yet part of daily scientific practice
 - Closing the gap between claim and reality
 
-<img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="950px"/>
+<img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="850px"/>
 
 ---
 
