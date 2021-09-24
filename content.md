@@ -165,7 +165,24 @@ count: false
     + Not yet part of daily scientific practice
 - Closing the gap between claim and reality
 
+<center>
 <img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="650px"/>
+</center>
+
+---
+
+# The SLUB *Lessons in Open Science* series
+
+- Nine online talks between today and 8th October
+    + Each at 1pm, 30 minutes incl. time for questions
+    + and information on technical and advisory services
+- Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+- Held by experts from SLUB and the Service Center Research Data
+- 2nd run during the Open-Access-Week
+
+<center>
+<img src="https://storage.ning.com/topology/rest/1.0/file/get/9410507880?profile=RESIZE_710x" width="650px"/>
+</center>
 
 ---
 
