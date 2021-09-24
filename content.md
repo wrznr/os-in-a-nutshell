@@ -95,7 +95,7 @@ count: false
 - With all its **advantages**, **risks** and **challenges**
 ]
 .fifty[
-<img src="https://www.tu-chemnitz.de/ub/images/seitenbilder/openscience/images/openscience.png" width="650px"/>
+<img src="https://www.tu-chemnitz.de/ub/images/seitenbilder/openscience/images/openscience.png" width="750px"/>
 ]
 ]
 
@@ -106,13 +106,15 @@ count: false
 - Multiple stages of the research process
 - Corresponding open science practices
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/The_Scientific_Method.svg" width="650px"/>
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/The_Scientific_Method.svg" width="450px"/>
+</center>
 
 ---
 
 # The openness puzzle
 
-<img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="1050px"/>
+<img src="https://web-redaktion.slub-dresden.de/fileadmin/_processed_/csm_OpenScience_rot_7e20d3d5cb.jpg" width="650px"/>
 
 ---
 
@@ -160,8 +162,6 @@ count: false
 - Challenging for researchers and project scouts
     + Not yet part of daily scientific practice
 - Closing the gap between claim and reality
-    + Imparting knowledge
-    + Advisory services
 
 <img src="https://www.publicdomainpictures.net/pictures/10000/velka/1210-12409560184r2o.jpg" width="1050px"/>
 
