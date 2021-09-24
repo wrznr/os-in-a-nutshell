@@ -46,16 +46,37 @@ count: false
 # Overview
 
 - What is *open science*?
-- Scientific method and openness
-- The open science puzzle
+    + Scientific method and openness
+    + The open science puzzle
 - The *Lessons in Open Science* series
+    + Motivation
+    + Topics, schedule, personnel
+- Advisory services at SLUB
 
 ---
 
 class: part-slide
 count: false
 
-# Topic 1
+# What is *open science*?
+
+---
+
+# What is *open science*?
+
+.cols[
+.fourty[
+- Free and unrestricted access to **scientific research**
+   + At all stages of the research process
+   + Not restricted to STEM disciplines
+       * **Open research**
+       * **Open scholarship**
+- With all its **advantages** and **risks**
+]
+.sixty[
+<img src="https://blog.hslu.ch/ikwerkzeugkasten/files/2016/08/Open_Science_Logo.jpg" width="650px"/>
+]
+
 
 ---
 
