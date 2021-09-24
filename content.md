@@ -65,7 +65,7 @@ count: false
 # What is *open science*?
 
 .cols[
-.fourty[
+.fifty[
 - Free and unrestricted access to **scientific research**
    + At all stages of the research process
    + Not restricted to STEM disciplines
@@ -73,8 +73,8 @@ count: false
        * **Open scholarship**
 - With all its **advantages** and **risks**
 ]
-.sixty[
-<img src="https://blog.hslu.ch/ikwerkzeugkasten/files/2016/08/Open_Science_Logo.jpg" width="650px"/>
+.fifty[
+<img src="os_logo1.jpg" width="650px"/>
 ]
 ]
 
