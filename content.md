@@ -100,7 +100,7 @@ count: false
 
 <center>
 <img src="img/os_cycle.svg" width="450px"/>
-<p style="font-size:0.5rem">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
+<p style="font-size:0.5rem;margin-top:-20px">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
 </center>
 
 
@@ -126,7 +126,7 @@ count: false
 - Often mixed with other openness aspects
 ]
 .fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="650px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="450px"/>
 ]
 ]
 
@@ -138,11 +138,12 @@ count: false
 .fifty[
 - Free access to **research data** and their unrestricted reusability
     + Standardized metadata
-    + Documentation
+    + Documentation!
     + Various existing publication platforms (i.e. *repositories*)
         * Institutional (e.g. `OpARA`)
         * Disciplinary (e.g. `PsychData`)
         * Universal (e.g. `Zenodo`)
+- FAIR principles
 ]
 .fifty[
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
@@ -153,9 +154,38 @@ count: false
 
 # Open Source
 
+.cols[
+.fifty[
+- Free access to **research software** and their (un-)restricted reusability
+    + Vast amount of possible licenses
+    + Free use vs. modifiability
+    + Adopted by software companies
+- `GitHub` as the de-facto standard for publishing research software
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Open_Source_Initiative_keyhole.svg" width="650px"/>
+]
+]
+
 ---
 
 # Open Evaluation
+
+.cols[
+.fifty[
+- Development of a **fair evaluation** system based on standardized protocols and transparent metrics
+    + **Preregistration**: Early sharing of research question and approach
+    + Open methodology: Methods for data acquisition and analysis
+    + Open peer review
+        * Open identities of authors **and** reviewers
+        * Published reviews
+        * Wider contribution possibilities for the scientific community
+- Alternatives for measuring scientific outreach
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Open_Source_Initiative_keyhole.svg" width="650px"/>
+]
+]
 
 ---
 
