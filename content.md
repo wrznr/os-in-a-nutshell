@@ -67,7 +67,7 @@ count: false
 
 .cols[
 .fifty[
-- Free and unrestricted access to **scientific research**
+- Free and (un-)restricted access to **scientific research**
    + At all stages of the research process
    + Not restricted to STEM disciplines
        * **Open research**
@@ -119,7 +119,7 @@ count: false
 
 .cols[
 .fifty[
-- Free access to **research results and publications** and their unrestricted reusability
+- Free access to **research results and publications** and their (un-)restricted reusability
     + Well-established concept (approx. 60 % of TU publications are OA)
     + Various types of OA: *gold*, *green*, *diamond*
     + Adopted by commercial publishers
@@ -138,7 +138,7 @@ count: false
 
 .cols[
 .fifty[
-- Free access to **research data** and their unrestricted reusability
+- Free access to **research data** and their (un-)restricted reusability
     + Standardized metadata
     + Documentation!
     + Various existing publication platforms (i.e. *repositories*)
@@ -176,7 +176,7 @@ count: false
 # Open Evaluation
 
 - Development of a **fair evaluation** system based on standardized protocols and transparent metrics
-    + **Preregistration**: Early sharing of research question and approach
+    + **Preregistration**: Early sharing of research questions and approach
     + Open methodology: Methods for data acquisition and analysis
     + Open peer review
         * Open identities of authors **and** reviewers
@@ -236,7 +236,7 @@ count: false
     + ...
 - FAIR principles
     + Make it **findable**: *platform*
-    + Care for **accessability**: *documentation*
+    + Care for **accessibility**: *documentation*
     + Mind the **interoperability**: *file format*
     + Clarify **reuse**: *license*
 - **Openness is a demanding and challenging task.**
@@ -275,7 +275,7 @@ count: false
 
 - Nine online talks between today and 8th October
     + Each at 1pm, 30 minutes incl. time for questions
-    + and information on technical and advisory services
+    + With information on **concepts** as well as **technical and advisory services**
 - Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
 - Held by experts from SLUB and the Service Center Research Data
 - 2nd run during the Open-Access-Week
