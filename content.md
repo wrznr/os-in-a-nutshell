@@ -240,6 +240,11 @@ count: false
     + Mind the **interoperability**: *file format*
     + Clarify **reuse**: *license*
 - **Openness is a demanding and challenging task.**
+- Advantages
+    + More feedback
+    + More visibility
+    + More efficiency
+
 
 ---
 
