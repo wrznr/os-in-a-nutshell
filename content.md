@@ -117,9 +117,37 @@ count: false
 
 # Open Access
 
+.cols[
+.fifty[
+- Free access to **research results and publications** and their unrestricted reusability
+    + Well-established concept (approx. 60 % of TU publications are OA)
+    + Various types of OA: *gold*, *green*, *diamond*
+    + Adopted by commercial publishers
+- Often mixed with other openness aspects
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="650px"/>
+]
+]
+
 ---
 
 # Open Data
+
+.cols[
+.fifty[
+- Free access to **research data** and their unrestricted reusability
+    + Standardized metadata
+    + Documentation
+    + Various existing publication platforms (i.e. *repositories*)
+        * Institutional (e.g. `OpARA`)
+        * Disciplinary (e.g. `PsychData`)
+        * Universal (e.g. `Zenodo`)
+]
+.fifty[
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
+]
+]
 
 ---
 
