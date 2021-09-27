@@ -198,8 +198,8 @@ count: false
 ]
 .fifty[
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="250px"/>
-<p style="font-size:0.5rem;margin-top:-20px">Von Jonathasmello - Eigenes Werk, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="300px"/>
+<p style="font-size:0.5rem;margin-top:0px">Von Jonathasmello - Eigenes Werk, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
 </center>
 ]
 ]
