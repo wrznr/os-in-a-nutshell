@@ -52,7 +52,6 @@ count: false
 - The SLUB *Lessons in Open Science* series
     + Motivation
     + Topics, schedule, personnel
-- Advisory services at SLUB
 
 ---
 
