@@ -88,7 +88,7 @@ count: false
 
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/The_Scientific_Method.svg" width="450px"/>
-<p style="font-size:0.5rem">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
+<p style="font-size:0.5rem padding:-0.5em">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
 </center>
 
 ---
