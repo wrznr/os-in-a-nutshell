@@ -126,7 +126,7 @@ count: false
 - Often mixed with other openness aspects
 ]
 .fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="450px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="250px"/>
 ]
 ]
 
@@ -163,7 +163,7 @@ count: false
 - `GitHub` as the de-facto standard for publishing research software
 ]
 .fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Open_Source_Initiative_keyhole.svg" width="650px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg" width="650px"/>
 ]
 ]
 
@@ -171,8 +171,6 @@ count: false
 
 # Open Evaluation
 
-.cols[
-.fifty[
 - Development of a **fair evaluation** system based on standardized protocols and transparent metrics
     + **Preregistration**: Early sharing of research question and approach
     + Open methodology: Methods for data acquisition and analysis
@@ -181,11 +179,7 @@ count: false
         * Published reviews
         * Wider contribution possibilities for the scientific community
 - Alternatives for measuring scientific outreach
-]
-.fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Open_Source_Initiative_keyhole.svg" width="650px"/>
-]
-]
+- Together with OA, OD, OS → **Open Reproducible Research**
 
 ---
 
