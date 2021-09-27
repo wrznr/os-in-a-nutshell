@@ -145,10 +145,12 @@ count: false
         * Institutional (e.g. `OpARA`)
         * Disciplinary (e.g. `PsychData`)
         * Universal (e.g. `Zenodo`)
-- FAIR principles
 ]
 .fifty[
+<center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Open_data_small_color_%28vector%29.svg" width="650px"/>
+<p style="font-size:0.5rem;margin-top:0px">By David Mellor!Original: AinaliVector: AntiCompositeNumber - https://osf.io/tvyxz/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64318717</p>
+</center>
 ]
 ]
 
@@ -199,7 +201,7 @@ count: false
 .fifty[
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="300px"/>
-<p style="font-size:0.5rem;margin-top:0px">Von Jonathasmello - Eigenes Werk, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
+<p style="font-size:0.5rem;margin-top:0px">By Jonathasmello - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
 </center>
 ]
 ]
@@ -213,7 +215,7 @@ count: false
 - Free access to **archival holdings, library collections and works of art** and their (un-)restricted reusability
 - Often granted through digitization
 - Multi-dimensional access
-    + Materiality
+    + Materiality!
 - Including descriptions of the creative process and provenance
 ]
 .fifty[
@@ -227,6 +229,17 @@ count: false
 ---
 
 # Open X
+
+- Not a complete picture
+    + Open Innovation
+    + Open Leadership
+    + ...
+- FAIR principles
+    + Make it **findable**: *platform*
+    + Care for **accessability**: *documentation*
+    + Mind the **interoperability**: *file format*
+    + Clarify **reuse**: *license*
+- **Openness is a demanding and challenging task.**
 
 ---
 
