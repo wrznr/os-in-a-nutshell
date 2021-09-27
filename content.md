@@ -208,6 +208,22 @@ count: false
 
 # Open Cultural Heritage
 
+.cols[
+.fifty[
+- Free access to **archival holdings, library collections and works of art** and their (un-)restricted reusability
+- Often granted through digitization
+- Multi-dimensional access
+    + Materiality
+- Including descriptions of the creative process and provenance
+]
+.fifty[
+<center>
+<img src="https://miro.medium.com/max/1000/0*cRU6MAUaDr6fT0fS" width="300px"/>
+<p style="font-size:0.5rem;margin-top:0px">By Open Knowledge Foundation - http://openglam.org/files/2012/04/OpenGLAM-logo.png, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25209995</p>
+</center>
+]
+]
+
 ---
 
 # Open X
