@@ -81,23 +81,15 @@ count: false
 
 ---
 
-count: false
+# Scientific method and openness
 
-# What is *open science*?
+- Multiple stages of the research process
+- Corresponding open science practices
 
-.cols[
-.fifty[
-- Free and unrestricted access to **scientific research**
-   + At all stages of the research process
-   + Not restricted to STEM disciplines
-       * **Open research**
-       * **Open scholarship**
-- With all its **advantages**, **risks** and **challenges**
-]
-.fifty[
-<img src="https://www.tu-chemnitz.de/ub/images/seitenbilder/openscience/images/openscience.png" width="750px"/>
-]
-]
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/The_Scientific_Method.svg" width="450px"/>
+<p style="font-size:0.5rem">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
+</center>
 
 ---
 
@@ -107,8 +99,11 @@ count: false
 - Corresponding open science practices
 
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/The_Scientific_Method.svg" width="450px"/>
+<img src="img/os_cycle.svg" width="450px"/>
+<p style="font-size:0.5rem">By Efbrazil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102392470</p>
 </center>
+
+
 
 ---
 
