@@ -126,7 +126,9 @@ count: false
 - Often mixed with other openness aspects
 ]
 .fifty[
+<center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="250px"/>
+</center>
 ]
 ]
 
@@ -184,6 +186,23 @@ count: false
 ---
 
 # Open Educational Resources
+
+.cols[
+.fifty[
+- Free access to **teaching and learning materials** and their (un-)restricted reusability
+    + Not strictly part of Open Science
+    + Important part of an **open academic culture**
+- Dedicated platforms like `Opal` and aggregators like [`OERSI`](https://oersi.de/)
+- Increased relevance during the covid-19 pandemic
+    + Barrier-free
+]
+.fifty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Open_Educational_Resources_Logo.svg" width="250px"/>
+<p style="font-size:0.5rem;margin-top:-20px">Von Jonathasmello - Eigenes Werk, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18460156</p>
+</center>
+]
+]
 
 ---
 
