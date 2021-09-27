@@ -281,6 +281,96 @@ count: false
 
 ---
 
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+- Monday, 4th October: David Riedel *Pregistration and registered reports*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+- Monday, 4th October: David Riedel *Pregistration and registered reports*
+- Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+- Monday, 4th October: David Riedel *Pregistration and registered reports*
+- Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
+- Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+- Monday, 4th October: David Riedel *Pregistration and registered reports*
+- Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
+- Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
+- Thursday, 7th October: Eloisa Deola Schennerlein *Gold Open Access*
+
+---
+
+count: false
+
+# The SLUB *Lessons in Open Science* series
+
+- Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+- Thursday, 30th September: Christian Löschen *Data repositories*
+- Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+- Monday, 4th October: David Riedel *Pregistration and registered reports*
+- Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
+- Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
+- Thursday, 7th October: Eloisa Deola Schennerlein *Gold Open Access*
+- Friday, 8th October: Simone Gruner *Green Open Access*
+
+---
+
 class: part-slide
 
 # Many thanks for your attention!
