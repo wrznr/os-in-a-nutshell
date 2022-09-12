@@ -288,7 +288,7 @@ count: false
 ]
 .fifty[
 <center>
-<img src="img/saxfdm.png" width="300px"/>
+<img src="img/saxfdm.png" width="400px"/>
 </center>
 ]
 ]
