@@ -274,7 +274,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Nine online talks between today and 23th September
-    + Each at 1pm, 30 minutes incl. time for questions
+    + Each at 1pm, 30 minutes plus time for questions
         * One exception: Data Management Planning
     + With information on **concepts** as well as **technical and advisory services**
 - Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
