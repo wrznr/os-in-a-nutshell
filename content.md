@@ -118,7 +118,7 @@ count: false
 
 .cols[
 .fifty[
-- Free access to **research results and publications** and their (un-)restricted reusability
+- Free access to **research results (as publications)** and their (un-)restricted reusability
     + Well-established concept (approx. 60 % of TU publications are OA)
     + Various types of OA: *gold*, *green*, *diamond*
     + Adopted by commercial publishers
