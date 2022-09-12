@@ -195,7 +195,8 @@ count: false
     + Important part of an **open academic culture**
 - Dedicated platforms like `Opal` and aggregators like [`OERSI`](https://oersi.de/)
 - Increased relevance during the covid-19 pandemic
-    + Barrier-free
+    + Independent of time and location
+    + **Barrier-free**
 ]
 .fifty[
 <center>
@@ -279,9 +280,17 @@ count: false
 - Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
 - Held by experts from SLUB, the Service Center Research Data and SaxFDM
 
+.cols[
 <center>
-<img src="https://storage.ning.com/topology/rest/1.0/file/get/9410507880?profile=RESIZE_710x" width="650px"/>
+<img src="img/zih.jpeg" width="300px"/>
 </center>
+]
+.fifty[
+<center>
+<img src="img/saxfdm.png" width="300px"/>
+</center>
+]
+]
 
 ---
 
