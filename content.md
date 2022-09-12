@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Saxon State and University Library Dresden</td>
-      <td>27th September 2021</td>
+      <td>12th September 2022</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ layout: true
       <td style="text-align:left">Open Science Department</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>27th September 2021</b></td>
+      <td style="font-size:8pt"><b>12th September 2022</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Lessons in Open Science</td>
@@ -272,12 +272,12 @@ count: false
 
 # The SLUB *Lessons in Open Science* series
 
-- Nine online talks between today and 8th October
+- Nine online talks between today and 23th September
     + Each at 1pm, 30 minutes incl. time for questions
+        * One exception: Data Management Planning
     + With information on **concepts** as well as **technical and advisory services**
 - Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
-- Held by experts from SLUB and the Service Center Research Data
-- 2nd run during the Open-Access-Week
+- Held by experts from SLUB, the Service Center Research Data and SaxFDM
 
 <center>
 <img src="https://storage.ning.com/topology/rest/1.0/file/get/9410507880?profile=RESIZE_710x" width="650px"/>
@@ -288,7 +288,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
 
 ---
 
@@ -297,8 +297,8 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
 
 ---
 
@@ -307,9 +307,9 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
 
 ---
 
@@ -318,10 +318,10 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
-    - Monday, 4th October: David Riedel *Pregistration and registered reports*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
 
 ---
 
@@ -330,11 +330,11 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
-    - Monday, 4th October: David Riedel *Pregistration and registered reports*
-    - Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
+    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
 
 ---
 
@@ -343,12 +343,12 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
-    - Monday, 4th October: David Riedel *Pregistration and registered reports*
-    - Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
-    - Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
+    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
+    - Monday, 19th September: Denise Dörfel *Research Data Management*
 
 ---
 
@@ -357,13 +357,13 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
-    - Monday, 4th October: David Riedel *Pregistration and registered reports*
-    - Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
-    - Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
-    - Thursday, 7th October: Eloisa Deola Schennerlein *Gold Open Access*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
+    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
+    - Monday, 19th September: Denise Dörfel *Research Data Management*
+    - Tuesday, 20th September: Christian Löschen *Preservation and Publication of Research Data*
 
 ---
 
@@ -372,14 +372,14 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 28th September: Johannes Sperling *Data Management Plans*
-    - Thursday, 30th September: Christian Löschen *Data repositories*
-    - Friday, 1st October: Andreas von der Dunk *Best practices in personal RDM*
-    - Monday, 4th October: David Riedel *Pregistration and registered reports*
-    - Tuesday, 5th October: Henriette Mehn and Michaele Adam *Academic identity management*
-    - Wednesday, 6th October: Kay-Michael Würzner and Caprice Thomas *Creative Commons*
-    - Thursday, 7th October: Eloisa Deola Schennerlein *Gold Open Access*
-    - Friday, 8th October: Simone Gruner *Green Open Access*
+    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
+    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
+    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
+    - Monday, 19th September: Denise Dörfel *Research Data Management*
+    - Tuesday, 20th September: Christian Löschen *Preservation and Publication of Research Data*
+    - Thursday, 22th September: Caprice Thomas, Kay-Michael Würzner *Creative Commons Licences*
 
 ---
 
