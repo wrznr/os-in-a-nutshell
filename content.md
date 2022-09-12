@@ -281,9 +281,11 @@ count: false
 - Held by experts from SLUB, the Service Center Research Data and SaxFDM
 
 .cols[
+.fifty[
 <center>
 <img src="img/zih.jpeg" width="300px"/>
 </center>
+]
 ]
 .fifty[
 <center>
