@@ -273,7 +273,7 @@ count: false
 
 # The SLUB *Lessons in Open Science* series
 
-- Nine online talks between today and 23th September
+- Nine online talks between today and 21th September
     + Each at 1pm, 30 minutes plus time for questions
         * One exception: Data Management Planning
     + With information on **concepts** as well as **technical and advisory services**
@@ -389,7 +389,7 @@ count: false
     - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
     - Monday, 19th September: Denise Dörfel *Research Data Management*
     - Tuesday, 20th September: Christian Löschen *Preservation and Publication of Research Data*
-    - Thursday, 22th September: Caprice Thomas, Kay-Michael Würzner *Creative Commons Licences*
+    - Wednesday, 21th September: Kay-Michael Würzner *Creative Commons Licences*
 
 ---
 
