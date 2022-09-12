@@ -286,7 +286,6 @@ count: false
 <img src="img/zih.jpeg" width="300px"/>
 </center>
 ]
-]
 .fifty[
 <center>
 <img src="img/saxfdm.png" width="300px"/>
