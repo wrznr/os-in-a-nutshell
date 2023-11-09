@@ -189,7 +189,7 @@ count: false
 <img src="img/rep.png" width="650px"/>
 ]
 ]
-- Alternatives for measuring scientific outreach
+Alternatives for measuring scientific outreach
 
 ---
 
