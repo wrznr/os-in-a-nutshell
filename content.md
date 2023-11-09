@@ -253,6 +253,13 @@ count: false
     + More visibility
     + More efficiency
 
+---
+
+# Why Open Science?
+
+<center>
+<img src="img/why.svg" width="500px"/>
+</center>
 
 ---
 
