@@ -184,13 +184,12 @@ count: false
         * Open identities of authors **and** reviewers
         * Published reviews
         * Wider contribution possibilities for the scientific community
-- Alternatives for measuring scientific outreach
-- Together with OA, OD, OS → **Open Reproducible Research**
 ]
 .fifty[
 <img src="img/rep.png" width="650px"/>
 ]
 ]
+- Alternatives for measuring scientific outreach
 
 ---
 
