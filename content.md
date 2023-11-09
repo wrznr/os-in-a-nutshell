@@ -296,12 +296,12 @@ count: false
 .cols[
 .fifty[
 <center>
-<img src="img/zih.jpeg" width="300px"/>
+<img src="img/zih.png" width="300px"/>
 </center>
 ]
 .fifty[
 <center>
-<img src="img/slub_logo_wo.svg" width="400px"/>
+<img src="img/slub_logo_wo.svg" width="300px"/>
 </center>
 ]
 ]
