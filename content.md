@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Saxon State and University Library Dresden</td>
-      <td>12th September 2022</td>
+      <td>9th November 2023</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ layout: true
       <td style="text-align:left">Open Science Department</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>12th September 2022</b></td>
+      <td style="font-size:8pt"><b>9th November 2023</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Lessons in Open Science</td>
@@ -273,12 +273,11 @@ count: false
 
 # The SLUB *Lessons in Open Science* series
 
-- Nine online talks between today and 21th September
-    + Each at 1pm, 30 minutes plus time for questions
-        * One exception: Data Management Planning
+- Eight online talks
+    + Each 30 minutes plus 15 minutes time for questions
     + With information on **concepts** as well as **technical and advisory services**
 - Oriented to the [Horizon Europe programme guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
-- Held by experts from SLUB, the Service Center Research Data and SaxFDM
+- Held by experts from the Service Center Research Data (Center for information services and high performance computing, Saxon State and University Library Dresden)
 
 .cols[
 .fifty[
@@ -288,7 +287,7 @@ count: false
 ]
 .fifty[
 <center>
-<img src="img/saxfdm.png" width="400px"/>
+<img src="img/slub_logo_wo.svg" width="400px"/>
 </center>
 ]
 ]
@@ -298,7 +297,6 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
 
 ---
 
@@ -307,8 +305,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
 
 ---
 
@@ -317,9 +314,8 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
 
 ---
 
@@ -328,10 +324,9 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
-    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
+    - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
 
 ---
 
@@ -340,11 +335,10 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
-    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
-    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
+    - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
+    - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
 
 ---
 
@@ -353,12 +347,11 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
-    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
-    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
-    - Monday, 19th September: Denise Dörfel *Research Data Management*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
+    - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
+    - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
+    - Friday, 10th November: Kay-Michael Würzner (SLUB) *Creative Commons Licences*
 
 ---
 
@@ -367,13 +360,12 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
-    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
-    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
-    - Monday, 19th September: Denise Dörfel *Research Data Management*
-    - Tuesday, 20th September: Christian Löschen *Preservation and Publication of Research Data*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
+    - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
+    - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
+    - Friday, 10th November: Kay-Michael Würzner (SLUB) *Creative Commons Licences*
+    - Friday, 10th November: Katharina Zinke (SLUB) *Preregistration of scientific studies*
 
 ---
 
@@ -382,14 +374,13 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Tuesday, 13th September: Henriette Mehn, Michaele Adam *Academic identity management*
-    - Wednesday, 14th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Green Open Access*
-    - Thursday, 15th September: Simone Gruner, Eloisa Deola Schennerlein, Caprice Thomas *Gold Open Access*
-    - Friday, 16th September: Carolin Hundt, Johannes Sperling *Data Management Planning*
-    - Friday, 16th September: Katharina Zinke *Pregistration and registered reports*
-    - Monday, 19th September: Denise Dörfel *Research Data Management*
-    - Tuesday, 20th September: Christian Löschen *Preservation and Publication of Research Data*
-    - Wednesday, 21th September: Kay-Michael Würzner *Creative Commons Licences*
+    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
+    - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
+    - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
+    - Friday, 10th November: Kay-Michael Würzner (SLUB) *Creative Commons Licences*
+    - Friday, 10th November: Katharina Zinke (SLUB) *Preregistration of scientific studies*
+    - Friday, 10th November: Janna Little (SLUB) *Academic Identity Management with ORCID*
 
 ---
 
