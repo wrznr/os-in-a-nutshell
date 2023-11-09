@@ -164,9 +164,10 @@ count: false
     + Free use vs. modifiability
     + Adopted by software companies
 - `GitHub` as the de-facto standard for publishing research software
+- **Open Source Hardware** increasingly prominent
 ]
 .fifty[
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg" width="650px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/2048px-Open_Source_Initiative_keyhole.svg.png" width="650px"/>
 ]
 ]
 
@@ -174,6 +175,8 @@ count: false
 
 # Open Evaluation
 
+.cols[
+.fifty[
 - Development of a **fair evaluation** system based on standardized protocols and transparent metrics
     + **Preregistration**: Early sharing of research questions and approach
     + Open methodology: Methods for data acquisition and analysis
@@ -183,6 +186,11 @@ count: false
         * Wider contribution possibilities for the scientific community
 - Alternatives for measuring scientific outreach
 - Together with OA, OD, OS → **Open Reproducible Research**
+]
+.fifty[
+<img src="img/rep.png" width="650px"/>
+]
+]
 
 ---
 
