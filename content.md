@@ -319,7 +319,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
 
 ---
 
@@ -328,7 +328,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
 
 ---
@@ -338,7 +338,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
     - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
 
@@ -349,7 +349,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
     - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
     - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
@@ -361,7 +361,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
     - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
     - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
@@ -374,7 +374,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
     - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
     - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
@@ -388,7 +388,7 @@ count: false
 # The SLUB *Lessons in Open Science* series
 
 - Programme
-    - Thursday, 9th November: Denise Dörfel, Torsten Gille (ZIH) *Best practices in data management*
+    - Thursday, 9th November: Denise Dörfel, Robert Müller (ZIH) *Best practices in data management*
     - Thursday, 9th November: Christian Löschen (ZIH) *Preservation and publication of research data (with OpARA)*
     - Thursday, 9th November: Janna Little (SLUB) *Introduction to the multi-disciplinary open repository Zenodo*
     - Friday, 10th November: Eloisa Deola Schennerlein (SLUB) *Models of Open Access publication*
