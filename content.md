@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Saxon State and University Library Dresden</td>
-      <td>9th November 2023</td>
+      <td>28th November 2024</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ layout: true
       <td style="text-align:left">Open Science Department</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>9th November 2023</b></td>
+      <td style="font-size:8pt"><b>28th November 2024</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Lessons in Open Science</td>
@@ -306,6 +306,7 @@ count: false
 ]
 ]
 
+<!--
 ---
 
 # The SLUB *Lessons in Open Science* series
@@ -397,6 +398,7 @@ count: false
     - Friday, 10th November: Janna Little (SLUB) *Academic Identity Management with ORCID*
 
 ---
+-->
 
 class: part-slide
 
