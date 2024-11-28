@@ -49,9 +49,6 @@ count: false
     + Scientific method and open science practices
     + The openness puzzle
     + Pros and Cons
-- The SLUB *Lessons in Open Science* series
-    + Motivation
-    + Topics, schedule, personnel
 
 ---
 
