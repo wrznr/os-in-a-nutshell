@@ -260,6 +260,7 @@ Alternatives for measuring scientific outreach
 <img src="img/why.svg" width="500px"/>
 </center>
 
+<!--
 ---
 
 class: part-slide
@@ -306,7 +307,6 @@ count: false
 ]
 ]
 
-<!--
 ---
 
 # The SLUB *Lessons in Open Science* series
@@ -396,9 +396,9 @@ count: false
     - Friday, 10th November: Kay-Michael Würzner (SLUB) *Creative Commons Licences*
     - Friday, 10th November: Katharina Zinke (SLUB) *Preregistration of scientific studies*
     - Friday, 10th November: Janna Little (SLUB) *Academic Identity Management with ORCID*
+-->
 
 ---
--->
 
 class: part-slide
 
